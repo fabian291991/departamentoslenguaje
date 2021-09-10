@@ -47,3 +47,8 @@
       clear: left;
       background-color: red;
   }
+  #foto{
+      width: 500px;
+      height: 500px;
+      margin-bottom: 200px;
+  }
